@@ -1,0 +1,15 @@
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\bin\Debug\net6.0\DevTracKR.Console.exe
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\bin\Debug\net6.0\DevTracKR.Console.deps.json
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\bin\Debug\net6.0\DevTracKR.Console.runtimeconfig.json
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\bin\Debug\net6.0\DevTracKR.Console.dll
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\bin\Debug\net6.0\ref\DevTracKR.Console.dll
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\bin\Debug\net6.0\DevTracKR.Console.pdb
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.csproj.AssemblyReference.cache
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.AssemblyInfoInputs.cache
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.AssemblyInfo.cs
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.csproj.CoreCompileInputs.cache
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.dll
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\ref\DevTracKR.Console.dll
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.pdb
+C:\EstudosProgramacao\C#\DotNet_LuisDev\Jornadadotnet1\DevTracKR.Console\obj\Debug\net6.0\DevTracKR.Console.genruntimeconfig.cache
